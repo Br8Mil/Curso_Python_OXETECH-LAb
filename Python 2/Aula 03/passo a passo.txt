@@ -1,0 +1,3 @@
+faça um esboço do sistema de login(visual)
+
+instale o pysimplegui atravez do comando no terminal    pip install pysimplegui

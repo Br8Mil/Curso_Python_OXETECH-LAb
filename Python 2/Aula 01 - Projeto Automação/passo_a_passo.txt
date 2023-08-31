@@ -1,0 +1,13 @@
+instale as bibliotecas necessárias
+
+abra o prompt de comando e digite: pip install pyautogui pillow mouseinfo
+
+
+
+Abrir Mouse Info
+
+abra o prompt de comando e execulte
+
+python
+from mouseinfo import mouseInfo
+mouseInfo()
